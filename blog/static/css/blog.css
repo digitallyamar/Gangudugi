@@ -42,7 +42,7 @@ h1 a, h2 a {
     margin-bottom: 70px;
 }
 
-.post h2 a, .post h2 a:visited {
+.post h2, h2 a, .post h2 a:visited {
     color: #8ca006;
     font-family: 'Permanent Marker', cursive;
 }
